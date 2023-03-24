@@ -1,4 +1,7 @@
-# Dataset Condensation
+# Dataset Condensation for Adversarial Training
+
+(Starting code is forked from https://github.com/VICO-UoE/DatasetCondensation)
+
 Dataset condensation aims to condense a large training set T into a small synthetic set S such that the model trained on the small synthetic set can obtain comparable testing performance to that trained on the large training set.
 
 This repository includes codes for *Dataset Condensation with Gradient Matching* (ICLR 2021 Oral), *Dataset Condensation with Differentiable Siamese Augmentation* (ICML 2021) and *Dataset Condensation with Distribution Matching* (arXiv 2021).
